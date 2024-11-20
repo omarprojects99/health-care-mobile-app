@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52493885022",
+    "project_id": "tandhimi",
+    "storage_bucket": "tandhimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52493885022:android:0cee1c893f236af278decf",
+        "android_client_info": {
+          "package_name": "com.abdoubhs.tandhimi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMB7FUFmkJqaTRZ2okgY0h2S2apHmTGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
